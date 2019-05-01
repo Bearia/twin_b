@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Keebio-Parts)(type KiCad)(uri F:/自作キーボード関係/Keebio-Parts.pretty-master)(options "")(descr ""))
+  (lib (name kbd-master)(type KiCad)(uri F:/自作キーボード関係/kbd-master/kbd-master)(options "")(descr ""))
+)
