@@ -1,4 +1,3 @@
-#include "crkbd.h"
 
 const char *read_logo(void) {
   static char logo[] = {

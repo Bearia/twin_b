@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "crkbd.h"
+#include QMK_KEYBOARD_H
 
 char keylog_str[24] = {};
 char keylogs_str[21] = {};
